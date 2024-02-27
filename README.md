@@ -1,1 +1,2 @@
+# compile
 nvcc test.cu
